@@ -1,1 +1,1 @@
-I'm now a Holberton Student, this is my first repository as a full-stack engineer.
+This repository contains responses for holbertonschool-zero_day project.
